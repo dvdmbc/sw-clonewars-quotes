@@ -1,0 +1,11 @@
+{
+  "name": "sw-clonewars-quotes",
+  "version": "1.0.3",
+  "main": "script.js",
+  "license": "MIT",
+  "type": "module",
+  "description": "Transforms Star Wars Clone Wars quotes from one JSON structure to a more readeble JSON structure.",
+  "repository": "https://github.com/dvdmbc/sw-clonewars-quotes.git",
+  "author": "David Margelli",
+  "private": true
+}

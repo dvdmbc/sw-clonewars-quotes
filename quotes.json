@@ -1,0 +1,647 @@
+[
+    {
+      "Season": "1",
+      "Episode": "1",
+      "Quote": "Great leaders inspire greatness in others."
+    },
+    {
+      "Season": "1",
+      "Episode": "2",
+      "Quote": "Belief is not a matter of choice, but of conviction."
+    },
+    {
+      "Season": "1",
+      "Episode": "3",
+      "Quote": "Easy is the path to wisdom for those not blinded by ego."
+    },
+    {
+      "Season": "1",
+      "Episode": "4",
+      "Quote": "A plan is only as good as those who see it through."
+    },
+    {
+      "Season": "1",
+      "Episode": "5",
+      "Quote": "The best confidence builder is experience."
+    },
+    {
+      "Season": "1",
+      "Episode": "6",
+      "Quote": "Trust in your friends, and they’ll have reason to trust in you."
+    },
+    {
+      "Season": "1",
+      "Episode": "7",
+      "Quote": "You hold onto friends by keeping your heart a little softer than your head."
+    },
+    {
+      "Season": "1",
+      "Episode": "8",
+      "Quote": "Heroes are made by the times."
+    },
+    {
+      "Season": "1",
+      "Episode": "9",
+      "Quote": "Ignore your instincts at your peril."
+    },
+    {
+      "Season": "1",
+      "Episode": "10",
+      "Quote": "Most powerful is he who controls his own power."
+    },
+    {
+      "Season": "1",
+      "Episode": "11",
+      "Quote": "The winding path to peace is always a worthy one, regardless of how many turns it takes."
+    },
+    {
+      "Season": "1",
+      "Episode": "12",
+      "Quote": "Fail with honor rather than succeed by fraud."
+    },
+    {
+      "Season": "1",
+      "Episode": "13",
+      "Quote": "Greed and fear of loss are the roots that lead to the tree of evil."
+    },
+    {
+      "Season": "1",
+      "Episode": "14",
+      "Quote": "When surrounded by war, one must eventually choose a side."
+    },
+    {
+      "Season": "1",
+      "Episode": "15",
+      "Quote": "Arrogance diminishes wisdom."
+    },
+    {
+      "Season": "1",
+      "Episode": "16",
+      "Quote": "Truth enlightens the mind, but won’t always bring happiness to your heart."
+    },
+    {
+      "Season": "1",
+      "Episode": "17",
+      "Quote": "Fear is a disease; hope is its only cure."
+    },
+    {
+      "Season": "1",
+      "Episode": "18",
+      "Quote": "A single chance is a galaxy of hope."
+    },
+    {
+      "Season": "1",
+      "Episode": "19",
+      "Quote": "It is a rough road that leads to the heights of greatness."
+    },
+    {
+      "Season": "1",
+      "Episode": "20",
+      "Quote": "The costs of war can never be truly accounted for."
+    },
+    {
+      "Season": "1",
+      "Episode": "21",
+      "Quote": "Compromise is a virtue to be cultivated, not a weakness to be despised."
+    },
+    {
+      "Season": "1",
+      "Episode": "22",
+      "Quote": "A secret shared is a trust formed."
+    },
+    {
+      "Season": "2",
+      "Episode": "1",
+      "Quote": "A lesson learned is a lesson earned."
+    },
+    {
+      "Season": "2",
+      "Episode": "2",
+      "Quote": "Overconfidence is the most dangerous form of carelessness."
+    },
+    {
+      "Season": "2",
+      "Episode": "3",
+      "Quote": "The first step to correcting a mistake is patience."
+    },
+    {
+      "Season": "2",
+      "Episode": "4",
+      "Quote": "A true heart should never be doubted."
+    },
+    {
+      "Season": "2",
+      "Episode": "5",
+      "Quote": "Believe in yourself or no one else will."
+    },
+    {
+      "Season": "2",
+      "Episode": "6",
+      "Quote": "No gift is more precious than trust."
+    },
+    {
+      "Season": "2",
+      "Episode": "7",
+      "Quote": "Sometimes, accepting help is harder than offering it."
+    },
+    {
+      "Season": "2",
+      "Episode": "8",
+      "Quote": "Attachment is not compassion."
+    },
+    {
+      "Season": "2",
+      "Episode": "9",
+      "Quote": "For everything you gain, you lose something else."
+    },
+    {
+      "Season": "2",
+      "Episode": "10",
+      "Quote": "It is the quest for honor that makes one honorable."
+    },
+    {
+      "Season": "2",
+      "Episode": "11",
+      "Quote": "Easy isn’t always simple."
+    },
+    {
+      "Season": "2",
+      "Episode": "12",
+      "Quote": "If you ignore the past, you jeopardize the future."
+    },
+    {
+      "Season": "2",
+      "Episode": "13",
+      "Quote": "Fear not for the future, weep not for the past."
+    },
+    {
+      "Season": "2",
+      "Episode": "14",
+      "Quote": "In war, truth is the first casualty."
+    },
+    {
+      "Season": "2",
+      "Episode": "15",
+      "Quote": "Searching for the truth is easy. Accepting the truth is hard."
+    },
+    {
+      "Season": "2",
+      "Episode": "16",
+      "Quote": "A wise leader knows when to follow."
+    },
+    {
+      "Season": "2",
+      "Episode": "17",
+      "Quote": "Courage makes heroes, but trust builds friendships."
+    },
+    {
+      "Season": "2",
+      "Episode": "18",
+      "Quote": "Choose what is right, not what is easy."
+    },
+    {
+      "Season": "2",
+      "Episode": "19",
+      "Quote": "The most dangerous beast is the beast within."
+    },
+    {
+      "Season": "2",
+      "Episode": "20",
+      "Quote": "Who my father was matters less than my memory of him."
+    },
+    {
+      "Season": "2",
+      "Episode": "21",
+      "Quote": "Adversity is a friendship’s truest test."
+    },
+    {
+      "Season": "2",
+      "Episode": "22",
+      "Quote": "Revenge is a confession of pain."
+    },
+    {
+      "Season": "3",
+      "Episode": "1",
+      "Quote": "Brothers in arms are brothers for life."
+    },
+    {
+      "Season": "3",
+      "Episode": "2",
+      "Quote": "Fighting a war tests a soldier’s skills, defending his home tests a soldier’s heart."
+    },
+    {
+      "Season": "3",
+      "Episode": "3",
+      "Quote": "Where there’s a will, there’s a way."
+    },
+    {
+      "Season": "3",
+      "Episode": "4",
+      "Quote": "A child stolen is a hope lost."
+    },
+    {
+      "Season": "3",
+      "Episode": "5",
+      "Quote": "The challenge of hope is to overcome corruption."
+    },
+    {
+      "Season": "3",
+      "Episode": "6",
+      "Quote": "Those who enforce the law must obey the law."
+    },
+    {
+      "Season": "3",
+      "Episode": "7",
+      "Quote": "The future has many paths,choose wisely."
+    },
+    {
+      "Season": "3",
+      "Episode": "8",
+      "Quote": "A failure in planning is a plan for failure."
+    },
+    {
+      "Season": "3",
+      "Episode": "9",
+      "Quote": "Love comes in all shapes and sizes."
+    },
+    {
+      "Season": "3",
+      "Episode": "10",
+      "Quote": "Fear is a great motivator."
+    },
+    {
+      "Season": "3",
+      "Episode": "11",
+      "Quote": "Truth can strike down the spectre of fear."
+    },
+    {
+      "Season": "3",
+      "Episode": "12",
+      "Quote": "The swiftest path to destruction is through vengeance."
+    },
+    {
+      "Season": "3",
+      "Episode": "13",
+      "Quote": "Evil is not born, it is taught."
+    },
+    {
+      "Season": "3",
+      "Episode": "14",
+      "Quote": "The path to evil may bring great power, but not loyalty."
+    },
+    {
+      "Season": "3",
+      "Episode": "15",
+      "Quote": "Balance is found in the one who faces his guilt."
+    },
+    {
+      "Season": "3",
+      "Episode": "16",
+      "Quote": "He who surrenders hope, surrenders life."
+    },
+    {
+      "Season": "3",
+      "Episode": "17",
+      "Quote": "He who seeks to control fate shall never find peace."
+    },
+    {
+      "Season": "3",
+      "Episode": "18",
+      "Quote": "Adaptation is the key to survival."
+    },
+    {
+      "Season": "3",
+      "Episode": "19",
+      "Quote": "Anything that can go wrong will."
+    },
+    {
+      "Season": "3",
+      "Episode": "20",
+      "Quote": "Without honor, victory is hollow."
+    },
+    {
+      "Season": "3",
+      "Episode": "21",
+      "Quote": "Without humility, courage is a dangerous game."
+    },
+    {
+      "Season": "3",
+      "Episode": "22",
+      "Quote": "A great student is what the teacher hopes to be."
+    },
+    {
+      "Season": "4",
+      "Episode": "1",
+      "Quote": "When destiny calls, the chosen have no choice."
+    },
+    {
+      "Season": "4",
+      "Episode": "2",
+      "Quote": "Only through fire is a strong sword forged."
+    },
+    {
+      "Season": "4",
+      "Episode": "3",
+      "Quote": "Crowns are inherited, kingdoms are earned."
+    },
+    {
+      "Season": "4",
+      "Episode": "4",
+      "Quote": "Who a person truly is cannot be seen with the eye."
+    },
+    {
+      "Season": "4",
+      "Episode": "5",
+      "Quote": "Understanding is honoring the truth beneath the surface."
+    },
+    {
+      "Season": "4",
+      "Episode": "6",
+      "Quote": "Who’s the more foolish, the fool or the fool who follows him?"
+    },
+    {
+      "Season": "4",
+      "Episode": "7",
+      "Quote": "The first step towards loyalty is trust."
+    },
+    {
+      "Season": "4",
+      "Episode": "8",
+      "Quote": "The path of ignorance is guided by fear."
+    },
+    {
+      "Season": "4",
+      "Episode": "9",
+      "Quote": "The wise man leads, the strong man follows."
+    },
+    {
+      "Season": "4",
+      "Episode": "10",
+      "Quote": "Our actions define our legacy."
+    },
+    {
+      "Season": "4",
+      "Episode": "11",
+      "Quote": "Where we are going always reflects where we came from."
+    },
+    {
+      "Season": "4",
+      "Episode": "12",
+      "Quote": "Those who enslave others, inevitably become slaves themselves."
+    },
+    {
+      "Season": "4",
+      "Episode": "13",
+      "Quote": "Great hope can come from small sacrifices."
+    },
+    {
+      "Season": "4",
+      "Episode": "14",
+      "Quote": "Friendship shows us who we really are."
+    },
+    {
+      "Season": "4",
+      "Episode": "15",
+      "Quote": "All warfare is based on deception."
+    },
+    {
+      "Season": "4",
+      "Episode": "16",
+      "Quote": "Keep your friends close, but keep your enemies closer."
+    },
+    {
+      "Season": "4",
+      "Episode": "17",
+      "Quote": "The strong survive, the noble overcome."
+    },
+    {
+      "Season": "4",
+      "Episode": "18",
+      "Quote": "Trust is the greatest of gifts, but it must be earned."
+    },
+    {
+      "Season": "4",
+      "Episode": "19",
+      "Quote": "One must let go of the past to hold on to the future."
+    },
+    {
+      "Season": "4",
+      "Episode": "20",
+      "Quote": "Who we are never changes, who we think we are does."
+    },
+    {
+      "Season": "4",
+      "Episode": "21",
+      "Quote": "A fallen enemy may rise again, but the reconciled one is truly vanquished."
+    },
+    {
+      "Season": "4",
+      "Episode": "22",
+      "Quote": "The enemy of my enemy is my friend."
+    },
+    {
+      "Season": "5",
+      "Episode": "1",
+      "Quote": "Strength of character can defeat strength in numbers."
+    },
+    {
+      "Season": "5",
+      "Episode": "2",
+      "Quote": "Fear is a malleable weapon."
+    },
+    {
+      "Season": "5",
+      "Episode": "3",
+      "Quote": "To seek something is to believe in its possibility."
+    },
+    {
+      "Season": "5",
+      "Episode": "4",
+      "Quote": "Struggles often begin and end with the truth."
+    },
+    {
+      "Season": "5",
+      "Episode": "5",
+      "Quote": "Disobedience is a demand for change."
+    },
+    {
+      "Season": "5",
+      "Episode": "6",
+      "Quote": "He who faces himself, finds himself."
+    },
+    {
+      "Season": "5",
+      "Episode": "7",
+      "Quote": "The young are often underestimated."
+    },
+    {
+      "Season": "5",
+      "Episode": "8",
+      "Quote": "When we rescue others, we rescue ourselves."
+    },
+    {
+      "Season": "5",
+      "Episode": "9",
+      "Quote": "Choose your enemies wisely, as they may be your last hope."
+    },
+    {
+      "Season": "5",
+      "Episode": "10",
+      "Quote": "Humility is the only defense against humiliation."
+    },
+    {
+      "Season": "5",
+      "Episode": "11",
+      "Quote": "When all seems hopeless, a true hero gives hope."
+    },
+    {
+      "Season": "5",
+      "Episode": "12",
+      "Quote": "A soldier’s most powerful weapon is courage."
+    },
+    {
+      "Season": "5",
+      "Episode": "13",
+      "Quote": "You must trust in others or success is impossible."
+    },
+    {
+      "Season": "5",
+      "Episode": "14",
+      "Quote": "One vision can have many interpretations."
+    },
+    {
+      "Season": "5",
+      "Episode": "15",
+      "Quote": "Alliances can stall true intentions."
+    },
+    {
+      "Season": "5",
+      "Episode": "16",
+      "Quote": "Morality separates heroes from villains."
+    },
+    {
+      "Season": "5",
+      "Episode": "17",
+      "Quote": "Sometimes even the smallest doubt can shake the greatest belief."
+    },
+    {
+      "Season": "5",
+      "Episode": "18",
+      "Quote": "Courage begins by trusting oneself."
+    },
+    {
+      "Season": "5",
+      "Episode": "19",
+      "Quote": "Never become desperate enough to trust the untrustworthy."
+    },
+    {
+      "Season": "5",
+      "Episode": "20",
+      "Quote": "Never give up hope, no matter how dark things seem."
+    },
+    {
+      "Season": "6",
+      "Episode": "1",
+      "Quote": "The truth about yourself is always the hardest to accept."
+    },
+    {
+      "Season": "6",
+      "Episode": "2",
+      "Quote": "The wise benefit from a second opinion."
+    },
+    {
+      "Season": "6",
+      "Episode": "3",
+      "Quote": "When in doubt, go to the source."
+    },
+    {
+      "Season": "6",
+      "Episode": "4",
+      "Quote": "The popular belief isn’t always the correct one."
+    },
+    {
+      "Season": "6",
+      "Episode": "5",
+      "Quote": "To love, is to trust. To trust is to believe."
+    },
+    {
+      "Season": "6",
+      "Episode": "6",
+      "Quote": "Jealousy is the path to chaos."
+    },
+    {
+      "Season": "6",
+      "Episode": "7",
+      "Quote": "Deceit is the weapon of greed."
+    },
+    {
+      "Season": "6",
+      "Episode": "8",
+      "Quote": "Without darkness there cannot be light."
+    },
+    {
+      "Season": "6",
+      "Episode": "9",
+      "Quote": "Wisdom is born in fools as well as wise men."
+    },
+    {
+      "Season": "6",
+      "Episode": "10",
+      "Quote": "What is lost is often found."
+    },
+    {
+      "Season": "6",
+      "Episode": "11",
+      "Quote": "Madness can sometimes be the path to truth."
+    },
+    {
+      "Season": "6",
+      "Episode": "12",
+      "Quote": "Death is just the beginning."
+    },
+    {
+      "Season": "6",
+      "Episode": "13",
+      "Quote": "Facing all that you fear will free you from yourself."
+    },
+    {
+      "Season": "7",
+      "Episode": "1",
+      "Quote": "Embrace others for their differences, for that makes you whole."
+    },
+    {
+      "Season": "7",
+      "Episode": "2",
+      "Quote": "The search for truth begins with belief."
+    },
+    {
+      "Season": "7",
+      "Episode": "3",
+      "Quote": "Survival is one step on the path to living."
+    },
+    {
+      "Season": "7",
+      "Episode": "4",
+      "Quote": "Trust placed in another is trust earned."
+    },
+    {
+      "Season": "7",
+      "Episode": "5",
+      "Quote": "If there is no path before you, create your own."
+    },
+    {
+      "Season": "7",
+      "Episode": "6",
+      "Quote": "Mistakes are valuable lessons often learned too late."
+    },
+    {
+      "Season": "7",
+      "Episode": "7",
+      "Quote": "Who you were does not have to define who you are."
+    },
+    {
+      "Season": "7",
+      "Episode": "8",
+      "Quote": "You can change who you are, but you cannot run from yourself."
+    }
+  ]
