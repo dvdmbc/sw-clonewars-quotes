@@ -9,5 +9,3 @@ The script accomplishes this by defining a function called groupEpisodesBySeason
 To do this, the function checks to see if the season has already been added to the seasons array. If not, it creates a new season object and adds it to the seasons array. If the season object already exists, it simply adds the episode and quote to the season's episodes array.
 
 Once the data has been grouped by season and episode, the script uses the fs module to write the grouped data to a new JSON file called quotesOutput.json. If there's an error writing the file, the script logs the error to the console. Otherwise, it logs a success message.
-
-Overall, the script demonstrates how to read and write JSON data using Node.js and how to transform data from one format to another using JavaScript functions. It also provides an example of how to use the fs module to work with files in Node.js.
